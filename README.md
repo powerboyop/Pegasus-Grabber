@@ -18,9 +18,6 @@
 
 <h1 align="center">HOW TO SETUP</h1>
 
-## Needed:
-* Vps / Rdp / Host (api hosting)
-
 ```
 + Open port on host machine
 + Config port in EL1T3_API.py file
