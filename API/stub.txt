@@ -1,0 +1,3 @@
+from EL1T3 import EL1T3
+
+EL1T3(dynamic_url= DYNAMICHERE, webhook_url= "WEBHOOKURLHERE", api_url= 'APIURLHERE')
