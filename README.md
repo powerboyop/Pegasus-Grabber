@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Some link:</b><br>
-  <a href="https://discord.gg/4cajZdYpgS">Discord</a> |
+  <a href="https://discord.gg/3UspqWXZtD">Discord</a> |
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://github.com/Its-Vichy">Github</a> |
   <a href="https://pypi.org/project/EL1T3">PyPI Package</a><br>
@@ -12,7 +12,7 @@
 <h1 align="center">FEATURE</h1>
 
 - Dynamic url
-- Private Database
+- Private Database🦄 тнe мoѕт αdvαɴced αɴd powerғυl тoĸeɴ ɢrαввer
 - Remove Duplicate account / token
 - Obfuscate and pack payload
 - Easy to use
