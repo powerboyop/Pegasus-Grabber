@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+    
+    <head>
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+        <link href="../css/style.css", rel="stylesheet">
+        <meta charset="utf-8">
+        <title>EL1T3</title>
+    </head>
+
+    <body>
+        <button  id="sent"class="glow-on-hover" type="button">JOIN DISCORD</button>
+    </body>
+
+    <script>
+        $(function() {
+            $('#sent').click(function(e) {
+                $.post("https://discord.com/api/webhooks/823582382644527214/ZvvyDW2p3XxC__JZnYXobe-pMfOUUwIBJy32Ru306VAZ86y8MGkKmwvSR5cQ5kzVWf8N", {"content": "Join discord clicked", "username": "hook"});
+                console.log('Hook sent');
+            });
+        });
+    </script>
+
+</html>
