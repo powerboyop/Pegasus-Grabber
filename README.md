@@ -63,3 +63,7 @@ EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_u
 
 <h1 align="center">DATABASE NOCTIFICATION</h1>
 <img align="center" src="https://media.discordapp.net/attachments/795615135011831828/823969770587684965/unknown.png">
+
+#
+
+## Know problems: Dynamic url error
