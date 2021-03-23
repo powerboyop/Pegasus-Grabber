@@ -1,0 +1,16 @@
+{
+    "Accounts": {
+        "1": {
+            "Token": "NzkzODEwNDY0MTU2ODExMzIz.YFiBcA.lzcCBAhRTMxRKlKIQqYVKl4wwLA",
+            "Email": "zenroxclpb@gmail.com",
+            "Discriminator": "1337",
+            "Username": "\u03b9\u0442\u0455_\u0474\u03b9c\u043d\u0447",
+            "Verified": true,
+            "Country": "fr",
+            "Phone": null,
+            "Nsfw": true,
+            "Id": "793810464156811323",
+            "Mfa": false
+        }
+    }
+}
