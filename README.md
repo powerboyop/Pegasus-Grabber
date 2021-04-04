@@ -1,4 +1,4 @@
-<h1 align="center">💣<br>THE EL1T3 PROJECT</h1>
+<h1 align="center">💣<br>THE PEGASUS PROJECT</h1>
 
 <p align="center">
   <b>Some link:</b><br>
