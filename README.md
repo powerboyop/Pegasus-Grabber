@@ -111,4 +111,10 @@
   - Opera 
   - Opera Neon
   - Opera GX
-  - Brave```
+  - Brave
+ ```
+ 
+ ## Made by:
+ - [Its-Vichy (Owner)](https://github.com/Its-Vichy)
+ 
+ - [Monst3red (Contribute)](https://github.com/Monst3red)
