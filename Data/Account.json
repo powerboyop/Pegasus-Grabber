@@ -1,0 +1,21 @@
+{
+    "ACCOUNTS": {
+        "1": {
+            "KEY": "xxx",
+            "USERNAME": "xxx#1337",
+            "ID": "000000000000000000",
+
+            "VICTIMS": [
+                "XXXXXXXXXXXXXXXXXXXXXXXX",
+                "XXXXXXXXXXXXXXXXXXXXXXXX"
+            ],
+
+            "PERMISSIONS": [
+                "JOIN_TOKENS",
+                "LEAVE_TOKENS",
+                "SPAM_TOKENS",
+                "FRIENDS_TOKEN"
+            ]
+        }
+    }
+}

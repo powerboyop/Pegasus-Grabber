@@ -1,0 +1,7 @@
+flask
+requests
+discord
+discord_webhook
+tinydb
+win10toast
+pyautogui

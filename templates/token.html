@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <meta charset="utf-8">
+  <title>Pegasus - Manager</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</header>
+
+<body>
+  <div class="navbar">
+    <ul>
+      <li><a href="/">Main Page</a></li>
+      <li><a href="token">Manage Token</a></li>
+      <li><a href="404.html">Raid pannel</a></li>
+      <li><a href="https://github.com/Its-Vichy/Pegasus-Grabber" target="_blank">Github</a></li>
+    </ul>
+  </div>
+
+  
+
+  <p class='title_page'>Who have been get rekt ?</p>
+
+  <div class="utils_token">
+    <ul>
+      <a href="check-tokens"><button class="button" type="submit">Check tokens</button></a>
+    </ul>
+  </div>
+
+  <br><br>
+
+  <main>
+    <table>
+      <thead>
+        <tr>
+          <th>Username</th>
+          <th>E-Mail</th>
+          <th>Token</th>
+          <th>Country</th>
+          <th>Phone</th>
+          <th>Verified</th>
+          <th>ID</th>
+        </tr>
+      </thead>
+      {%for user in database%}
+      <tbody>
+        <tr>
+          <td data-title='Username'>{{user['Tag']}}</td>
+          <td data-title='E-mail'>{{user['Mail']}}</td>
+          <td data-title='Token'>{{user['Token']}}</td>
+          <td data-title='Country'>{{user['Locale']}}</td>
+          <td data-title='Phone'>{{user['Phone']}}</td>
+          <td data-title='Verified'>{{user['Verified']}}</td>
+          <td data-title='ID'>{{user['ID']}}</td>
+        </tr>
+      </tbody>
+      {%endfor%}
+    </table>
+  </main>
+</body>
+</html>
