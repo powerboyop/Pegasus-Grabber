@@ -2,7 +2,7 @@
     "API": {
         "PORT": 1337,
         "BASE": "/api",
-        "LINK": "http://discord.com,
+        "LINK": "http://discord.com",
 
         "OWNER_TOKEN": "",
 
